@@ -4,7 +4,7 @@ export default class FooterComponent extends Component {
     render() {
         return (
             <footer className="footer">
-                <div class="container text-center">
+                <div className="container text-center">
                     <span className="text-muted">All rights</span>
                 </div>
             </footer>
